@@ -1,10 +1,8 @@
-# Race House
+# Racehouse
 
-You can't race a house, but you can race a car...
-Or can you?
+You can't race a car, but you can race a house...
 
-## All that matters
-### is speed and power.
+## All that matters is speed and power.
 
 [Power and speed solves many things.](https://speed.race.house)
 
